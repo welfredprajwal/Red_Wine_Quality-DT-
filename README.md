@@ -1,4 +1,4 @@
-# Red_Wine_Quality-Decision Tree
+# Red-Wine-Quality-Decision Tree
 
 # Overview
 
@@ -33,12 +33,17 @@ Efficient and fast to train, making it suitable for real-time predictions
 # Project Workflow
 
 1.Data Preprocessing
+
 2.Exploratory Data Analysis (EDA)
+
 3.Decision Tree Modeling
+
 4.Model Evaluation
+
 5.Prediction
 
 # Results
 
 Classification (quality as categories): ~95–85%
+
 Regression (quality as continuous score): R² score ~0.90–0.80
